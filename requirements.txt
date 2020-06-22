@@ -1,0 +1,8 @@
+keras
+keras-gpu
+tensorflow
+tensorflow-gpu
+scikit-learn
+PyDrive
+cv2
+scikit-learn
