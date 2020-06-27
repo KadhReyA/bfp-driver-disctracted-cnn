@@ -16,6 +16,7 @@ Distracted driving detection are based on state farm distracted driver dataset, 
 Number of images : 22.424
 
 ![imageexample](/image/imageexample.png)
+
 The 10 classes to predict are:
 
 c0: safe driving
