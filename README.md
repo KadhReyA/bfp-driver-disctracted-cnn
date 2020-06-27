@@ -47,6 +47,8 @@ c9: talking to passenger
 ![dropout](/image/dropout.png)
 
 ## Mobilenet
+![mobnet](/image/mobnet.PNG)
+
 MobileNet is a computationally efficient CNN architecture designed specifically for mobile devices with very limited computing power, consists of 28 layers, including deep convolution layer, 1 × 1 point convolution layer, batchnorm,ReLU, average collecting layer and softmax.
 
 ## Installation
