@@ -15,6 +15,7 @@ Distracted driving detection are based on state farm distracted driver dataset, 
 ## Datasets
 Number of images : 22.424
 
+![imageexample](/image/imageexample.png)
 The 10 classes to predict are:
 
 c0: safe driving
@@ -52,7 +53,7 @@ Follow the cell on the notebook research file
 
 ## Result
 
-![Graph1](/images/logo.png) ![Graph2](/images/logo.png)
+![Graph1](/image/graph1.png) ![Graph2](/image/graph2.png)
 
 Epoch | Loss | Accuracy | Val_Loss | Val_Accuracy | Total Time | Time / step
 ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ----------------
