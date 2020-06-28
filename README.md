@@ -65,6 +65,17 @@ Follow the cell on the notebook research file
 
 ## Result
 
+### Baseline Model
+![Graph3](/image/graph3.png) ![Graph4](/image/graph4.png)
+
+Epoch | Loss | Accuracy | Val_Loss | Val_Accuracy | Total Time | Time / step
+------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ----------------
+1 | 0.5696 | 0.8124 | 0.0995 | 0.9737 | 344s | 307ms/step
+2 | 0.0654 | 0.9811 | 0.0570 | 0.9837 | 344s | 307ms/step
+3 | 0.0312 | 0.9907 | 0.0954 | 0.9723 | 344s | 307ms/step
+4 | 0.0213 | 0.9936 | 0.0425 | 0.9895 | 344s | 307ms/step
+
+### Improvement Model
 ![Graph1](/image/graph1.png) ![Graph2](/image/graph2.png)
 
 Epoch | Loss | Accuracy | Val_Loss | Val_Accuracy | Total Time | Time / step
