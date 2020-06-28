@@ -13,6 +13,10 @@
 Distracted driving detection are based on state farm distracted driver dataset, but in this project we preprocess the data by trimming the data.
 
 ## Datasets
+
+State Farm Distracted Driver Detection
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
+
 Number of images : 22.424
 
 ![imageexample](/image/imageexample.png)
